@@ -4,4 +4,5 @@ This repository contains various projects (from begginer to advanced level). Thi
 
 ### [1. Wine Quality](https://github.com/bzkarimi/ML-Projects/tree/main/wine-quality) (Beginner)
 
-### [2. Amazon Reviews](https://github.com/bzkarimi/ML-Projects/tree/main/amazon-reviews) ####(Beginner)
+### [2. Amazon Reviews](https://github.com/bzkarimi/ML-Projects/tree/main/amazon-reviews)
+#### (Beginner)
