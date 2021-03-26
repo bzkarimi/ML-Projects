@@ -2,7 +2,7 @@
 
 This repository contains various exercises and projects (from begginer to advanced level). New exercises and projects are being added on a regular basis.
 
-Python Packages: *Pandas*, *sklearn*, *TensorFlow*, *seaborn*, *matplotlib*
+**Python Packages**: *Pandas*, *Sklearn*, *TensorFlow*, *Seaborn*, *Matplotlib*
 
 ### [1. Wine Quality](https://github.com/bzkarimi/ML-Projects/tree/main/wine-quality) (Beginner)
 
