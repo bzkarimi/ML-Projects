@@ -6,9 +6,11 @@ This repository contains various exercises and projects (from begginer to advanc
 
 # Exercises
 
-### [1. Wine Quality](https://github.com/bzkarimi/ML-Projects/tree/main/wine-quality) (Beginner)
+### [1. Wine Quality](https://github.com/bzkarimi/ML-Projects/tree/main/wine-quality)
 
-### [2. Amazon Reviews](https://github.com/bzkarimi/ML-Projects/tree/main/amazon-reviews) (Beginner)
+### [2. Amazon Reviews](https://github.com/bzkarimi/ML-Projects/tree/main/amazon-reviews)
 
-### [3. Hotel Cancellation](https://github.com/bzkarimi/ML-Projects/tree/main/hotel-cancellation) (Intermediate)
+### [3. Hotel Cancellation](https://github.com/bzkarimi/ML-Projects/tree/main/hotel-cancellation)
+
+### [4. Blossoming Date Prediction](https://github.com/bzkarimi/ML-Projects/tree/main/blossom)
 
