@@ -16,4 +16,4 @@ This repository contains various exercises and projects (from begginer to advanc
 
 # Projects
 
-### [1. Water Quality Prediction]()
+### [1. Water Quality Prediction](https://github.com/bzkarimi/ML-Projects/tree/main/water-quality)
