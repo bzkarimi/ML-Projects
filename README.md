@@ -14,3 +14,6 @@ This repository contains various exercises and projects (from begginer to advanc
 
 ### [4. Blossoming Date Prediction](https://github.com/bzkarimi/ML-Projects/tree/main/blossom)
 
+# Projects
+
+### [1. Water Quality Prediction]()
