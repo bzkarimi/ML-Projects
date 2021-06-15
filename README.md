@@ -4,6 +4,12 @@ This repository contains various exercises and projects (from begginer to advanc
 
 **Python Packages**: *Pandas*, *Sklearn*, *TensorFlow*, *Seaborn*, *Matplotlib*
 
+# Projects
+
+### [1. Water Quality Prediction](https://github.com/bzkarimi/ML-Projects/tree/main/water-quality)
+
+### [1. NMR J-coupling Prediction](https://github.com/bzkarimi/ML-Projects/tree/main/water-quality)
+
 # Exercises
 
 ### [1. Wine Quality](https://github.com/bzkarimi/ML-Projects/tree/main/wine-quality)
@@ -13,9 +19,3 @@ This repository contains various exercises and projects (from begginer to advanc
 ### [3. Hotel Cancellation](https://github.com/bzkarimi/ML-Projects/tree/main/hotel-cancellation)
 
 ### [4. Blossoming Date Prediction](https://github.com/bzkarimi/ML-Projects/tree/main/blossom)
-
-# Projects
-
-### [1. Water Quality Prediction](https://github.com/bzkarimi/ML-Projects/tree/main/water-quality)
-
-### [1. NMR J-coupling Prediction](https://github.com/bzkarimi/ML-Projects/tree/main/water-quality)
