@@ -8,7 +8,7 @@ This repository contains various exercises and projects (from begginer to advanc
 
 ### [1. Water Quality Prediction](https://github.com/bzkarimi/ML-Projects/tree/main/water-quality)
 
-### [1. NMR J-coupling Prediction](https://github.com/bzkarimi/ML-Projects/tree/main/water-quality)
+### [2. NMR J-coupling Prediction](https://github.com/bzkarimi/ML-Projects/tree/main/nmr-coupling)
 
 # Exercises
 
