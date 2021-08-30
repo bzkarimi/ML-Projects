@@ -14,5 +14,15 @@ Objectives:
 3. Data Visualization and Analysis (using matplotlib, seaborn, folium, dash, beautiful soup, and SQL)
 4. Machine Learning Prediction (using sklearn): Logistic Regression, SVM, Decision Tree, and KNN
 
+* Aim: Falcon 9 SpaceX rocket landing success rate
+* Exploratory Data Analysis (EDA) of first stage landing  
+* Data was obtained from web scraping and SpaceX open REST API 
+* Data processing was done using python such as pandas
+* SQL queries used for EDA as well
+* Machine Learning methods used in this study
+  ** Logistic Regression, Support Vector Machine, Decision Tree, and K-Nearest Neighbors
+  ** Accuracy achieved for test set prediction: 83.3%
+  ** All 4 models perform similarly and did not show a significant difference
+
 
 
