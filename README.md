@@ -10,7 +10,7 @@ This repository contains various exercises and projects (from begginer to advanc
 
 ### [2. NMR J-coupling Prediction](https://github.com/bzkarimi/ML-Projects/tree/main/nmr-coupling)
 
-### [3. IBM Data Science Professoinal Certifcate Capstone Project (SPACEX Launches)](https://github.com/bzkarimi/ML-Projects/tree/main/nmr-coupling)
+### [3. IBM Data Science Professoinal Certifcate Capstone Project (SPACEX Launches)](https://github.com/bzkarimi/ML-Projects/tree/main/ibm-capstone-spacex)
 
 
 # Exercises
