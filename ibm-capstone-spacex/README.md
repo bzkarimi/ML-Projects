@@ -2,6 +2,7 @@
 
 Space Exploration Technologies Corp. is an American aerospace manufacturer, space transportation services and communications company headquartered in Hawthorne, California. SpaceX was founded in 2002 by Elon Musk with the goal of reducing space transportation costs to enable the colonization of Mars.
 
+SpaceX originally intended to follow its light Falcon 1 launch vehicle with an intermediate capacity vehicle, the Falcon 5. SpaceX instead decided in 2005 to proceed with the development of the Falcon 9, a reusable heavier lift vehicle. Development of the Falcon 9 was accelerated by NASA, which committed to purchase several commercial flights if specific capabilities were demonstrated. This started with seed money from the Commercial Orbital Transportation Services (COTS) program in 2006. The overall contract award was $278 million to provide development funding for the Dragon spacecraft, Falcon 9, and demonstration launches of Falcon 9 with Dragon. As part of this contract, the Falcon 9 launched for the first time in June 2010 with the Dragon Spacecraft Qualification Unit, using a mockup of the Dragon spacecraft.
 
 SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch. 
 
